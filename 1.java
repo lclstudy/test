@@ -1,3 +1,3 @@
 public void test(){
-  system.out.print(123);
+  system.out.print(123456);
 }
